@@ -27,13 +27,14 @@ Step into my digital library, where the arcane meets the avant-garde. Whether yo
 
 Let us embark on this odyssey together, unraveling the secrets of code, defying the boundaries of the known, and transcending into the sublime. The voyage of a thousand repositories begins with a single `git clone`.
 
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sajalsamveg/count.svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
-<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" height="200" width="265">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" height="200" width="235">
 
 ![sajalsamveg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajalsamveg&show_icons=true&theme=dark)
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="195" width="245">
+</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
 <!-- Languages and Tools -->
