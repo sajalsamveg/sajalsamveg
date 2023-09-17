@@ -31,6 +31,7 @@ Let us embark on this odyssey together, unraveling the secrets of code, defying 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" height="200" width="265">
+
 ![sajalsamveg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajalsamveg&show_icons=true&theme=dark)
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="195" width="245">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
