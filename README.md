@@ -32,8 +32,11 @@ Let us embark on this odyssey together, unraveling the secrets of code, defying 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" height="200" width="235">
+<div align="center">
+  <!-- Replace the following URL with your GitHub statistics card URL -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sajalsamveg&show_icons=true&theme=dark" alt="GitHub Stats">
+</div>
 
-![sajalsamveg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajalsamveg&show_icons=true&theme=dark)
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 
