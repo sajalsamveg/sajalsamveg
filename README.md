@@ -35,7 +35,7 @@ Together, let us embark on this ascent, unraveling the secrets of code, transcen
   <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" height="200" width="235">
 <div align="center">
   <!-- Replace the following URL with your GitHub statistics card URL -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sajalsamveg&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://camo.githubusercontent.com/2d9d5f4049b1f6d09290d9779094df27433ebbd4349b9e8c48cc8b5f01c9eb07/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73616a616c73616d7665672673686f775f69636f6e733d74727565267468656d653d6461726b" alt="GitHub Stats">
 </div>
 
 </p>
