@@ -80,7 +80,7 @@ Together, let us embark on this ascent, unraveling the secrets of code, transcen
 # Connect <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="40"> with Me<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="40">:
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
 <p align="Left">
-  <a href="https://www.linkedin.com/in/sajalsamveg/">
+  <a href="https://www.linkedin.com/in/sajal-samveg-64ab59272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="LinkedIn" height="50">
 </a>
 <a href="https://www.instagram.com/sajalsamveg/">
